@@ -1,9 +1,14 @@
-# api documentation for  [nativescript-cardview (v1.3.2)](https://github.com/bradmartin/nativescript-cardview)  [![npm package](https://img.shields.io/npm/v/npmdoc-nativescript-cardview.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nativescript-cardview) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nativescript-cardview.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nativescript-cardview)
+# npmdoc-nativescript-cardview
+
+#### basic api documentation for  [nativescript-cardview (v1.3.2)](https://github.com/bradmartin/nativescript-cardview)  [![npm package](https://img.shields.io/npm/v/npmdoc-nativescript-cardview.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nativescript-cardview) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nativescript-cardview.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nativescript-cardview)
+
 #### A NativeScript plugin for Material Design CardView component.
 
-[![NPM](https://nodei.co/npm/nativescript-cardview.png?downloads=true)](https://www.npmjs.com/package/nativescript-cardview)
+[![NPM](https://nodei.co/npm/nativescript-cardview.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nativescript-cardview)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-nativescript-cardview/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-nativescript-cardview_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nativescript-cardview/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-nativescript-cardview/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-nativescript-cardview/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-nativescript-cardview/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nativescript-cardview/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-nativescript-cardview/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Brad Martin",
-        "email": "bradwaynemartin@gmail.com",
         "url": "https://github.com/bradmartin"
     },
     "bugs": {
@@ -27,12 +31,10 @@
     "contributors": [
         {
             "name": "Nathanael Anderson",
-            "email": "nathan@master-technology",
             "url": "https://github.com/nathanaela"
         },
         {
             "name": "Nathanael Walker",
-            "email": "nathan.walker@infowrap.com",
             "url": "https://github.com/NathanWalker"
         },
         {
@@ -41,17 +43,14 @@
         },
         {
             "name": "Vladimir Nani",
-            "email": "vladimirnani@gmail.com",
             "url": "https://github.com/vladimirnani"
         },
         {
             "name": "Stanimira Vlaeva",
-            "email": "stanimira.vlaeva@gmail.com",
             "url": "https://github.com/sis0k0"
         },
         {
             "name": "Eddy Verbruggen",
-            "email": "eddyverbruggen@gmail.com",
             "url": "https://github.com/EddyVerbruggen"
         }
     ],
@@ -83,16 +82,13 @@
     "main": "cardview",
     "maintainers": [
         {
-            "name": "bradmartin",
-            "email": "bradmartin0905@gmail.com"
+            "name": "bradmartin"
         },
         {
-            "name": "nathanaela",
-            "email": "nathan@master-technology.com"
+            "name": "nathanaela"
         },
         {
-            "name": "walkerrunpdx",
-            "email": "walkerrunpdx@gmail.com"
+            "name": "walkerrunpdx"
         }
     ],
     "name": "nativescript-cardview",
@@ -103,7 +99,6 @@
         }
     },
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/bradmartin/nativescript-cardview.git"
@@ -116,19 +111,10 @@
         "setup": "cd demo; npm install; cd ..; npm run build; cd demo; tns plugin add ..; cd .."
     },
     "typings": "index.d.ts",
-    "version": "1.3.2"
+    "version": "1.3.2",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module nativescript-cardview](#apidoc.module.nativescript-cardview)
-
-
-
-# <a name="apidoc.module.nativescript-cardview"></a>[module nativescript-cardview](#apidoc.module.nativescript-cardview)
 
 
 
